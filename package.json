@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gitbook-plugin-copy-code": "^4.0.0-alpha.1",
+    "gitbook-plugin-japanese-support": "^0.0.1"
+  }
+}
